@@ -1,0 +1,4 @@
+repository "MidoriNinjaGame/MidoriNinjaGame@18967536215554@cloud"
+  path "/"
+    br "/main"
+    co "/main"
